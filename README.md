@@ -6,7 +6,7 @@
   - Forward Propagation in RNN
   - Types of RNN
       - One to One
-      - One to Many
+      - One to Many 
       - Many to One
       - Many to Many (Same length)
       - Many to Many (different Length, encoder - decoder)
