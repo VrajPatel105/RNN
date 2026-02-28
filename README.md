@@ -16,4 +16,9 @@
       - 1. Vanishing Gradients
         2. Unstable Trainings (Exploding Gradients)
   - Long Short Term Memory (LSTM)
-      - 
+      - Intuition
+      - Forget Gate
+      - Input Gate
+      - Output Gate
+      - Pointwise Operations
+      - Explaining Each Gate in detail
