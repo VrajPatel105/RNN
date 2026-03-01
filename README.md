@@ -22,3 +22,7 @@
       - Output Gate
       - Pointwise Operations
       - Explaining Each Gate in detail
+  - Gated Recurrent Unit (GRU)
+  - Deep RNN
+  - Bi-Directional RNN
+      - Pros and Cons
