@@ -26,3 +26,4 @@
   - Deep RNN
   - Bi-Directional RNN
       - Pros and Cons
+More project files incoming
